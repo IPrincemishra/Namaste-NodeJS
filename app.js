@@ -1,9 +1,14 @@
-var name = "Namaste NodeJS"
+// const { calculateSum } = require("./calculate/sum")
 
-var a = 7
-var b = 5
+// const { calculateMultiply } = require("./calculate/mutliply")
 
-// console.log(a + b);
-// console.log(name);
+const { calculateMultiply, calculateSum } = require("./calculate")
 
-console.log(globalThis === global);
+const data = require("./data.json")
+
+console.log(data);
+
+
+calculateSum(4, 5)
+
+calculateMultiply(8, 6)
