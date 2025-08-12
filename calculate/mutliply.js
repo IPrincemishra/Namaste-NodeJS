@@ -1,3 +1,5 @@
+require("../xyz")
+
 function calculateMultiply(a, b) {
     const result = a * b
 
