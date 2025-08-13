@@ -12,3 +12,8 @@ console.log(data);
 calculateSum(4, 5)
 
 calculateMultiply(8, 6)
+
+setTimeout(() => {
+    console.log("hello world");
+
+}, 1000)

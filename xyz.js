@@ -9,4 +9,8 @@ function x() {
     }
 }
 
-console.log();
+
+fs.readFile("./data.json", "utf8", (data) => {
+    console.log("File Data", data);
+
+})

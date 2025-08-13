@@ -1,6 +1,6 @@
-# 🟢 My Node.js Learning Project
+# 🟢 Node.js Learning from Namaste Node.js
 
-This is a personal project to help me learn and practice **Node.js**. The goal is to understand how Node.js works, how to build simple server-side applications, and how to use popular packages like Express, dotenv, etc.
+This is a Namaste Node.js course to help me learn and practice **Node.js**. The goal is to understand how Node.js works, how to build simple server-side applications, and how to use popular packages like Express, dotenv, etc.
 
 ---
 
